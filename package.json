@@ -1,7 +1,7 @@
 {
   "name": "26_feb_cli_tool",
   "version": "1.0.0",
-  "type":"module",
+  
   "main": "index.js",
   "scripts": {
      
