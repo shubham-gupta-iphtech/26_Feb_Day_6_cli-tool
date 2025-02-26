@@ -1,17 +1,15 @@
 {
   "name": "26_feb_cli_tool",
   "version": "1.0.0",
-  
   "main": "index.js",
-  "scripts": {
-     
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "commander": "^13.1.0",
+    "eventemitter": "^0.3.3",
     "os": "^0.1.2"
   }
 }
